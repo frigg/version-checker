@@ -2,6 +2,8 @@ tasks:
  - python --version
  - python3 --version
  - python3.4 --version
+ - pip --version
+ - pip3 --version
  - nvm --version
  - node --version
  - npm --version
